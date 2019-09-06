@@ -28,10 +28,10 @@ public class SpringBootMailTest {
 
     private Wiser wiser;
 
-    private String userTo = "user2@localhost";
-    private String userFrom = "user1@localhost";
-    private String subject = "Test subject";
-    private String textMail = "Text subject mail";
+    private String userTo = "usermail1@localhost";
+    private String userFrom = "usermail2@localhost";
+    private String subject = "Test subject text";
+    private String textMail = "Text subject mail text";
 
     @Before
     public void setUp() throws Exception {
