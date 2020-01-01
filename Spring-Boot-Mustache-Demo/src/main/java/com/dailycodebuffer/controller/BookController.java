@@ -16,7 +16,7 @@ public class BookController {
     public String getProducts(final Model model){
 
         List bookList = IntStream.range(0,7)
-                        .mapToObj(i->getBook(i))
+                        .mapToObj(this::getBook)
                         .collect(Collectors.toList());
 
         model.addAttribute("bookList",bookList);
@@ -24,10 +24,10 @@ public class BookController {
     }
 
     private Book getBook(int i){
-        return new Book(Long.valueOf(i),
+        return new Book((long) i,
                 "ISBN Number -" + i,
                 "Book Name " + i,
                 "Author " + i,
-                Double.valueOf(100 * i));
+                (double) (100 * i));
     }
 }
