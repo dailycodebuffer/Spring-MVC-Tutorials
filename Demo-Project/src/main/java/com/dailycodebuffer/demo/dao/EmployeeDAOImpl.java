@@ -52,4 +52,9 @@ public class EmployeeDAOImpl implements EmployeeDAO{
             return 0;
         }
     }
+
+    @Override
+    public int updateEmployee(int id, Employee emp) {
+        return 0;
+    }
 }
