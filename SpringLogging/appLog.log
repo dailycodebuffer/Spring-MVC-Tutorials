@@ -1,0 +1,20 @@
+2020-02-21 21:39:08,385 [INFO] com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on DESKTOP-MOHLHJ5 with PID 2360 (started by Shabbir in D:\Code Record\SpringLogging)
+2020-02-21 21:39:08,387 [DEBUG] com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-21 21:39:08,388 [INFO] com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2020-02-21 21:39:09,256 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-02-21 21:39:09,266 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-02-21 21:39:09,269 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-21 21:39:09,333 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-02-21 21:39:09,333 [INFO] org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 901 ms
+2020-02-21 21:39:09,474 [INFO] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-21 21:39:09,598 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-21 21:39:09,602 [INFO] com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 1.591 seconds (JVM running for 1.967)
+2020-02-21 21:39:15,403 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-21 21:39:15,403 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2020-02-21 21:39:15,408 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Completed initialization in 5 ms
+2020-02-21 21:39:15,424 [TRACE] com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2020-02-21 21:39:15,611 [TRACE] com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2020-02-21 21:39:15,729 [TRACE] com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2020-02-21 21:39:15,889 [TRACE] com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2020-02-21 21:39:16,049 [TRACE] com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2020-02-21 21:39:16,178 [TRACE] com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR

@@ -1,0 +1,44 @@
+2020-02-21 21:46:16,221 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on DESKTOP-MOHLHJ5 with PID 6512 (started by Shabbir in D:\Code Record\SpringLogging)
+2020-02-21 21:46:16,224 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-21 21:46:16,225 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2020-02-21 21:46:17,484 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 1.584 seconds (JVM running for 2.108)
+2020-02-21 21:47:33,046 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on DESKTOP-MOHLHJ5 with PID 3052 (started by Shabbir in D:\Code Record\SpringLogging)
+2020-02-21 21:47:33,048 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-21 21:47:33,049 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2020-02-21 21:47:34,297 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 1.545 seconds (JVM running for 2.056)
+2020-02-21 21:47:38,446 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2020-02-21 21:47:38,634 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2020-02-21 21:47:38,732 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2020-02-21 21:47:38,881 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2020-02-21 21:47:39,041 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2020-02-21 21:47:39,210 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2020-02-21 21:47:39,362 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2020-02-21 21:47:39,530 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-8] FATAL ERROR
+2020-02-21 21:47:39,689 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-9] FATAL ERROR
+2020-02-21 21:47:39,865 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-10] FATAL ERROR
+2020-02-21 21:47:40,034 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2020-02-21 21:47:40,210 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2020-02-21 21:47:40,385 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2020-02-21 21:47:40,554 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2020-02-21 21:47:40,730 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2020-02-21 21:47:40,875 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2020-02-21 21:47:41,034 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2020-02-21 21:47:41,201 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-8] FATAL ERROR
+2020-02-21 21:47:41,370 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-9] FATAL ERROR
+2020-02-21 21:47:41,490 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-10] FATAL ERROR
+2020-02-21 21:47:56,132 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2020-02-21 21:47:56,299 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2020-02-21 21:47:56,468 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2020-02-21 21:47:56,635 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2020-02-21 21:47:56,795 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2020-02-21 21:47:56,939 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2020-02-21 21:48:02,676 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on DESKTOP-MOHLHJ5 with PID 7144 (started by Shabbir in D:\Code Record\SpringLogging)
+2020-02-21 21:48:02,679 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-21 21:48:02,680 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2020-02-21 21:48:03,964 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 1.588 seconds (JVM running for 2.095)
+2020-02-21 21:48:04,897 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2020-02-21 21:48:05,008 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2020-02-21 21:48:05,172 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2020-02-21 21:48:05,324 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2020-02-21 21:48:05,493 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2020-02-21 21:48:05,628 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
