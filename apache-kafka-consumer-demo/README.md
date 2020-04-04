@@ -1,6 +1,6 @@
 # Spring Boot with Kafka Consumer Example
 
-This Project covers how to use Spring Boot with Spring Kafka to Publish JSON/String message to a Kafka topic
+This Project covers how to use Spring Boot with Spring Kafka to Consume JSON/String message from a Kafka topic
 
 ### Below are the command for Linux/Mac and Windows
 
