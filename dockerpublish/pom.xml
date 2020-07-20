@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dailycodebuffer</groupId>
 	<artifactId>dockerpublish</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<name>dockerpublish</name>
 	<description>Demo project for Spring Boot</description>
 
