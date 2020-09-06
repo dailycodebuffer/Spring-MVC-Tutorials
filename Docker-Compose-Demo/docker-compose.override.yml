@@ -1,0 +1,8 @@
+version: '3'
+services:
+  department:
+    container_name: department_service_new
+    image: dailycodebuffer/department_new
+    ports:
+      - 8084:8082
+   

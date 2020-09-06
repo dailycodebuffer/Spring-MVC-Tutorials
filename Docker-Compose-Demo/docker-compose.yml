@@ -1,0 +1,22 @@
+version: '3'
+services:
+  user:
+    container_name: user_service
+    build:
+      context: ./user-service
+      args: 
+        JDK_VERSION: 11
+      dockerfile: Dockerfile  
+    image: dailycodebuffer/user  
+    ports:
+      - 8081:8081
+  department:
+    container_name: department_service
+    build:
+      context: ./department-service
+      dockerfile: Dockerfile
+    image: dailycodebuffer/department 
+    ports:
+      - 8083:8082
+    links:
+      - "user:user_service"    
