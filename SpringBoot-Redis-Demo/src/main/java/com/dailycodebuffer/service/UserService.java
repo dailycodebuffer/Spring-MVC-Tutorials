@@ -13,4 +13,6 @@ public interface UserService {
     User fetchUserById(Long id);
 
     boolean deleteUser(Long id);
+
+    boolean updateUser(Long id, User user);
 }

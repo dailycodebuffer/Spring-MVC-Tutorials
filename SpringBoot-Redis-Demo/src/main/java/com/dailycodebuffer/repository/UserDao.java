@@ -12,4 +12,6 @@ public interface UserDao {
     User fetchUserById(Long id);
 
     boolean deleteUser(Long id);
+
+    boolean updateUser(Long id, User user);
 }
