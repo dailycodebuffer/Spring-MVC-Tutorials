@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: <ACCESS-KEY>
+      secret-key: <SECRET_KEY>
+    end-point:
+      uri: <SQS_URL>
+
+
+server:
+  port: 8083
