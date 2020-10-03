@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+
+server:
+  port: 8083
