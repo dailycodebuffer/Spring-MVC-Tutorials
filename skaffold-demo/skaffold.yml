@@ -1,0 +1,11 @@
+apiVersion: skaffold/v2beta10
+kind: Config
+build:
+  artifacts:
+    - image: skaffold-demo
+      jib: {}
+
+deploy:
+  kubectl:
+    manifests:
+      - k8s-*
