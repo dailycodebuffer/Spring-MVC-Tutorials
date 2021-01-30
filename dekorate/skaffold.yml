@@ -1,0 +1,11 @@
+apiVersion: skaffold/v2beta10
+kind: Config
+build:
+  artifacts:
+    - image: shabb/dekorate
+      jib: {}
+
+deploy:
+  kubectl:
+    manifests:
+      - target/classes/META-INF/dekorate/*.yml
